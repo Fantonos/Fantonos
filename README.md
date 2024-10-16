@@ -1,12 +1,13 @@
-## Hi there 👋
+## ✨The Future is vast ✨.
 
-![alt text](https://github.com/images/mona-whisper.gif)
+ ![alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhucWRxdjQ4YWQ3bzQ4M3RuOGJ1M2pzdXVrdW85ZGk3bmZqcDU5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/71F204RLmmWyjMvhXU/giphy.gif)
+
 
 <!--
 **Fantonos/Fantonos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- ![alt text](https://github.com/images/mona-whisper.gif)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
