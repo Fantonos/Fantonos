@@ -1,7 +1,6 @@
-## ✨The Future is vast ✨.
+## ✨The Future is vast ✨
 
- ![alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhucWRxdjQ4YWQ3bzQ4M3RuOGJ1M2pzdXVrdW85ZGk3bmZqcDU5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/71F204RLmmWyjMvhXU/giphy.gif)
-
+ ![alt text](https://s7.ezgif.com/tmp/ezgif-7-6776e94723.gif)
 
 <!--
 **Fantonos/Fantonos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
