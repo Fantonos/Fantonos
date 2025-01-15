@@ -2,6 +2,7 @@
 
  ![alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTQ4cXBpeGt2MjNpN2xxeGoyMjJubnp3MXRjeDg1OWg4ZWV0OW9xNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OEV5W3prJnfurTzXmC/giphy.gif)
 
+I Write *Rxndom* Things.
 
 <!--
 **Fantonos/Fantonos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
